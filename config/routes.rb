@@ -1,4 +1,4 @@
-FlyermillCom::Application.routes.draw do
+Flyermill::Application.routes.draw do
   root :to => 'root#root'
 
   get "root/root"

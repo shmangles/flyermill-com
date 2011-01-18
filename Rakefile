@@ -4,4 +4,4 @@
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
 
-FlyermillCom::Application.load_tasks
+Flyermill::Application.load_tasks

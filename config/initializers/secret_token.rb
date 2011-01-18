@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-FlyermillCom::Application.config.secret_token = '47f60fddcf1b977cd8b21af97f7e3ee911c49fb43380aad021135de27e51a10889b2a776799e4184d6acf5e24059c2580c40495f15e9678d92d176fdb02e8924'
+Flyermill::Application.config.secret_token = 'b1b5435f6c17d39e817e7221c12009688d3f7cc81d3fd3f0f6644e5476fad51686a0e5ad48a421723acb009c322c4556095ee6ddcccffe9faaba3a143d03a194'
